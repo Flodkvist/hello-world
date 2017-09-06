@@ -1,0 +1,7 @@
+if(this branch == that branch){
+	funktion(arg1){
+		does stuff;
+	}
+} else {
+	other stuff;
+}
