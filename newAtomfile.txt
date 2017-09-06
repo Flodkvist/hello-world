@@ -3,3 +3,6 @@ allright, ska vi se om denna kommer med upp eller inte....
 2
 3
 Och vi lägger till lite till.
+
+
+Sen gör vi en ändring i master och ser om det slår igenom på en fetch.....
